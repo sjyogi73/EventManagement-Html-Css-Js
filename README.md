@@ -41,8 +41,7 @@
 
      Event Page 
 
-![image](https://user-images.githubusercontent.com/82278181/180430841-9e9916fb-f4cf-4b9c-a843-5d2c0bae20c2.png)
-
+![Event](https://user-images.githubusercontent.com/82278181/180439719-b7f26841-fa96-44c4-833a-169ea9087626.png)
      Servie Page
 ![Servise](https://user-images.githubusercontent.com/82278181/180438550-87292a42-f4b4-462f-b8cf-d13a4a497279.png)
 
@@ -52,9 +51,11 @@
       Why Choose-US
 ![why](https://user-images.githubusercontent.com/82278181/180438725-e62165b6-dbf1-4ae2-96a3-3b451effe469.png)
 
+       Registration Page
+![res](https://user-images.githubusercontent.com/82278181/180439812-2639b770-8ca8-41fe-a658-cb1767a5c4f2.png)
 
 
-   
+
 
 Follow my Social Media & Subscribe Our Youtube Channel 🙏
 
