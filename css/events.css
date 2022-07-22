@@ -1,0 +1,48 @@
+#caro{
+    margin: 20%! important;
+  }
+  .carousel-inner{
+      max-height: 500px !important;
+      max-width: 500px !important;
+      margin-top: 30px;
+    }
+    .service-h1{
+      font-size: 32px;
+      text-align: center;
+      padding: 20px;
+      font-family: serif;
+      margin-top: 10px;
+      color: rgb(150, 150, 238);
+    }
+  .service-sub{
+    text-align: center;
+    padding: 6px;
+    font-family: serif;
+    font-size: 18px;
+    padding-bottom: 80px;
+  
+  }
+  
+  .service-h11{
+    text-align: center;
+    padding: 20px;
+    font-family: serif;
+    margin-top: 20px;
+  }
+  .ser-p{
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    font-family: serif;
+    margin-top:10px;
+    font-size: 20px;
+    opacity: 0.5;
+  }
+  .service-sub-title,.pone{
+    text-align: center;
+    padding: 0px;
+    font-family: serif;
+    font-size: 18px;
+  
+  
+  }
