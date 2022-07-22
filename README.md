@@ -39,9 +39,6 @@
      
 ![Home](https://user-images.githubusercontent.com/82278181/180438202-7b26c255-299b-4bee-bcab-eb862f693ffd.png)
 
-     Event Page 
-
-![Event](https://user-images.githubusercontent.com/82278181/180439719-b7f26841-fa96-44c4-833a-169ea9087626.png)
      Servie Page
 ![Servise](https://user-images.githubusercontent.com/82278181/180438550-87292a42-f4b4-462f-b8cf-d13a4a497279.png)
 
@@ -56,6 +53,7 @@
 
 
 
+.
 
 Follow my Social Media & Subscribe Our Youtube Channel 🙏
 
